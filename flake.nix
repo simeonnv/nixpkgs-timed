@@ -6,8 +6,8 @@
     nixpkgs-2d.url = "github:NixOS/nixpkgs/4fe25e12eb9f4c744966dd3de5a05246cf098601";
     nixpkgs-3d.url = "github:NixOS/nixpkgs/4fe25e12eb9f4c744966dd3de5a05246cf098601";
     nixpkgs-5d.url = "github:NixOS/nixpkgs/6dadaf4375be35033e1c84395adbd53ff5fded96";
-    nixpkgs-7d.url = "github:NixOS/nixpkgs/9d3b8db48266c17be0b5f9c6360c3ecfbac3d1f5";
-    nixpkgs-14d.url = "github:NixOS/nixpkgs/fa45202b90a351983649116adb577827b2a9a679";
+    nixpkgs-7d.url = "github:NixOS/nixpkgs/13e53762c5afaf384d4614e94527a9ccfafe41d0";
+    nixpkgs-14d.url = "github:NixOS/nixpkgs/e62746b0b472753ef019baceab6f1e2e52014980";
     nixpkgs-30d.url = "github:NixOS/nixpkgs/8edc0c72e3a38faf5434e40d1f19431125fe4b30";
     nixpkgs-60d.url = "github:NixOS/nixpkgs/aff8a0b28396750446e5537a96461bc4facdb287";
   };
