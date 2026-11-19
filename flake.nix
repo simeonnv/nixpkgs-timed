@@ -2,14 +2,14 @@
   description = "nixpkgs-unstable pinned to fixed setbacks";
 
   inputs = {
-    nixpkgs-1d.url = "github:NixOS/nixpkgs/1c872b8c508bbbfebc1b0b74777ff391ce0a574c";
+    nixpkgs-1d.url = "github:NixOS/nixpkgs/e21fec321d73511849707a7585e4ea155ee4bf40";
     nixpkgs-2d.url = "github:NixOS/nixpkgs/5d2b81a7a3be3e2f832879028e4d60abbf58e9a0";
-    nixpkgs-3d.url = "github:NixOS/nixpkgs/e126e9e73c335158ff8279ac14d5f4afec153716";
+    nixpkgs-3d.url = "github:NixOS/nixpkgs/5d2b81a7a3be3e2f832879028e4d60abbf58e9a0";
     nixpkgs-5d.url = "github:NixOS/nixpkgs/2074cc672349f14240fb7ea90d509e0b643e9dd4";
-    nixpkgs-7d.url = "github:NixOS/nixpkgs/4fe25e12eb9f4c744966dd3de5a05246cf098601";
-    nixpkgs-14d.url = "github:NixOS/nixpkgs/9d3b8db48266c17be0b5f9c6360c3ecfbac3d1f5";
-    nixpkgs-30d.url = "github:NixOS/nixpkgs/f20cd90e28fe0403873f473b29e42662cd86e8c4";
-    nixpkgs-60d.url = "github:NixOS/nixpkgs/a32edd7654519351e48e80372a928df336394670";
+    nixpkgs-7d.url = "github:NixOS/nixpkgs/f6bf1059f02576e0b913c7b49d5e4eb6dda9cc22";
+    nixpkgs-14d.url = "github:NixOS/nixpkgs/13e53762c5afaf384d4614e94527a9ccfafe41d0";
+    nixpkgs-30d.url = "github:NixOS/nixpkgs/f3a77a0c9b182bf55b71c8f22f99725f38b69a3e";
+    nixpkgs-60d.url = "github:NixOS/nixpkgs/0a3468a402c449992505b6a9fc5b06580141b750";
   };
 
   outputs = inputs: {
